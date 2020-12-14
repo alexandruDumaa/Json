@@ -9,7 +9,7 @@ import com.cmc.persistencia.TResultado;
 @Repository
 public interface TResultadoRepositorio extends JpaRepository <TResultado, String>{
 	
-//prueba commit
+//prueba
 	
 	
 }
